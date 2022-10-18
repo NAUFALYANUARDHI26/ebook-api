@@ -12,9 +12,9 @@ public function me(){
         'NIS' => 3103120160,
         'Nama' => 'naufal yanuardhi',
         'phone' => '0859148460441',
-        'Kelas' => 'XII RPL 5',
+        'Kelas' => 'XII RPL 5'
         
     ];
 }
 
-}
+};
